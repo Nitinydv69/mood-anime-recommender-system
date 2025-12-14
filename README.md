@@ -115,7 +115,7 @@ mood-anime-recommeder-system/
 ### 1. Clone Repository  
 ```bash
 git clone <your-repo-url>
-cd mood-anime-recommeder-system
+cd mood-anime-recommender-system
 ```
 
 ### 2. Create Virtual Environment (Optional)
@@ -201,7 +201,7 @@ Uses:
 - Dataset inspired by MAL community datasets  
 - Poster images from MAL/Jikan URLs  
 - Built using **Streamlit**, **pandas**, **plotly**  
-- Developed by **Nitin Yadav - 69199A**
+- Developed by **Nitin Yadav**
 
 ---
 
